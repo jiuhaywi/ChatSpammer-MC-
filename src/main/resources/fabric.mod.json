@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "chatspammer",
+  "id": "chatSpammer",
   "version": "1.0.0",
   "name": "Chat Spammer",
   "description": "Spams messages in chat with a delay.",
