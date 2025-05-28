@@ -1,4 +1,4 @@
-package dj.chatspammer;
+package dj.chatSpammer;
 
 import net.fabricmc.api.ClientModInitializer;
 
