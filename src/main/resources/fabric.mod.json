@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "chatspammer",
+  "version": "1.0.0",
+  "name": "Chat Spammer",
+  "description": "Spams messages in chat with a delay.",
+  "authors": ["DJ"],
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "dj.chatspammer.MyChatSpammer"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "fabric": "*",
+    "minecraft": "1.21.4"
+  }
+}
