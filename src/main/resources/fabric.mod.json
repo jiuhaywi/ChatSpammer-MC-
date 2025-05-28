@@ -8,7 +8,7 @@
   "environment": "*",
   "entrypoints": {
     "client": [
-      "dj.chatspammer.MyChatSpammer"
+      "dj.chatSpammer.MyChatSpammer"
     ]
   },
   "depends": {
