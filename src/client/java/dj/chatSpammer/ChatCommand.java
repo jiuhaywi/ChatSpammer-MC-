@@ -1,4 +1,4 @@
-package dj.chatspammer;
+package dj.chatSpammer;
 
 import com.mojang.brigadier.arguments.IntegerArgumentType;
 import com.mojang.brigadier.arguments.StringArgumentType;
